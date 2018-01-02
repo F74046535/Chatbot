@@ -29,6 +29,7 @@ This is a chatbot which is used to talk to the snoopy dog .
                          * Input:"give up"
                                    * Reply:"Hi,my name is snoopy. Do you want to go to challenge me?"(go_back to sate1)
 
-
+## Author
+[F74046535](https://github.com/F74046535)
                  
               
