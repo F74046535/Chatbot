@@ -9,7 +9,8 @@ The initial state is set to `user`.
 This is a chatbot which is used to talk to the snoopy dog .
 
 * user
-        * Input:  "hello"
+       
+         * Input:  "hello"
                 
                  
               
