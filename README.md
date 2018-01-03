@@ -8,6 +8,9 @@ The initial state is set to `user`.
 
 This is a chatbot which is used to talk to the snoopy dog .
 
+# Run
+run app.py
+
 * user
        
          * Input:  "hello"
